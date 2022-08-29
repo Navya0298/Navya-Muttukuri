@@ -3,4 +3,4 @@
 My first repo
 ## sun rises in the east
 
-HI 
+Hello world my name is navya 
