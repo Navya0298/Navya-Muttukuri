@@ -1,6 +1,5 @@
-line Every day is a good day 
+line Every (change on line 1)
 line Good
-line Boy writes very well
+line Boy (change on line 3)
 line Deserves
 line Favor
-Hello world
