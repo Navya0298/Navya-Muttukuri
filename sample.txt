@@ -1,0 +1,6 @@
+line Every day is a good day 
+line Good
+line Boy writes very well
+line Deserves
+line Favor
+Hello world
